@@ -51,13 +51,13 @@ Step 2. Now, let's make sure that you got your git repository working. From any 
     Git log gives the following messages:
 
     commit a0199f86ee70dad54eece6b26e751dd203637494
-    Author: Jacob Budzis <jrbudzis@alumni.ubc.ca>
+    Author: Jacob Budzis <jrbudzis@gmail.com>
     Date:   Thu Jan 5 17:55:55 2017 -0800
 
         Kernel is working on MacOS with no issues
 
     commit fb377b5bba7f862670755271a28fc0267e2e456a
-    Author: Jacob Budzis <jrbudzis@alumni.ubc.ca>
+    Author: Jacob Budzis <jrbudzis@gmail.com>
     Date:   Thu Jan 5 14:03:30 2017 -0800
 
         Initial commit of os161 for CPEN331
